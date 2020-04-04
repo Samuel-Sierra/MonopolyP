@@ -15,8 +15,8 @@
 </head>
 <body onkeydown="controlAS(event);">	
 	<div id="contenedor">
-		<div id="izquierda">Aqui van a venir las instrucciones y las puntuaciones</div>
-		<div id="derecha">Aqui deberia de ir el juego
+		<div id="izquierda">Has click en el boton "tirar dados" para empezar
+		<div id="derecha">
 			<br>
 			<div id="arriba">
 				<canvas id="canvas" width="710" height="410">Tu navegador no soporta HTML5</canvas>
